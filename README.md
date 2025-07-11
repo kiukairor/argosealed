@@ -1,2 +1,2 @@
 # argosealed
-summy project using both argocd and sealed secrets
+Dummy project using both argocd and sealed secrets
